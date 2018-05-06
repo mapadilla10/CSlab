@@ -1,3 +1,4 @@
+//Binary search tree- size- insert Given string- return / print the given string- return in acending order/ return in descending order/ return largest given string
 public class BST{  
 	BTNode root;
 	int count;   
